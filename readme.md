@@ -1,0 +1,1 @@
+#joke-api-javascript-ver1.0
